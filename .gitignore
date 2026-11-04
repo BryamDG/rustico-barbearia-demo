@@ -1,0 +1,12 @@
+dist/
+node_modules/
+__pycache__/
+*.pyc
+*.sqlite*
+.env
+.env.*
+!.env.example
+data/
+.openai/
+.DS_Store
+Thumbs.db
